@@ -32,7 +32,7 @@ mv example.env .env
 
 ## Live at
 
-#### [https://quiz-master-sunny8080.netlify.app](https://quizmaster-rammy.vercel.app/login)
+#### (https://quizmaster-rammy.vercel.app/login)
 
 
 # quizmaster
